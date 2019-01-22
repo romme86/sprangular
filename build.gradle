@@ -1,0 +1,4 @@
+allprojects {
+    group = 'romme.boilerplate.com'
+    version = '0.0.1-SNAPSHOT'
+}
